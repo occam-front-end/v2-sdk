@@ -1,0 +1,6 @@
+[user]
+  email = aa@occam.fi
+
+[remote "origin"] 
+  url = git@github.com-alex-abanin:occam-front-end/occamx-fe.git
+  fetch = +refs/heads/*:refs/remotes/origin/*
